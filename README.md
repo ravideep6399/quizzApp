@@ -1,16 +1,18 @@
-# quiz_app
+# Flutter Quiz App
 
-A new Flutter project.
+A simple Flutter app to take quizzes with questions fetched from an API and show results in percentage.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK installed. Follow the installation guide [here](https://flutter.dev/docs/get-started/install).
+- An IDE such as Android Studio or Visual Studio Code with Flutter and Dart plugins.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Clone the Repository
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/your-username/quiz_app.git
+cd quiz_app
+flutter pub get
+flutter run
